@@ -1,3 +1,4 @@
+# Simple game of dice in Python
 import random
 
 while True:
@@ -11,5 +12,3 @@ while True:
         break # The game closes if the player selects 'n'.
     else:
         print('Invalid input. Retry!') # If the player's selection is anything other than 'y' or 'n', the game will notify them
-
-#Simple game of dice in Python
